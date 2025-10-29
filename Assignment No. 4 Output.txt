@@ -1,0 +1,21 @@
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  d:; cd 'd:\TY 5th sem\Design and Analysis of algorithm\codes'; & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'NearestHospital'
+Enter number of intersections (vertices):
+6
+Enter number of roads (edges): 
+7
+Enter the Edge (u,v,w)
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 10
+3 5 2
+Enter ambulance start location (source): 
+0
+Enter number of hospitals: 
+2
+Enter hospital nodes: 
+4 5
+Nearest hospital is at node 5 with travel time 10 minutes.
+Path: [0, 2, 1, 3, 5]
