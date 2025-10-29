@@ -1,0 +1,30 @@
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'knapsackbydp'
+Enter number of items: 4
+
+Enter details for item 1:
+Name: Laptop
+Weight: 3
+Utility Value: 30
+
+Enter details for item 2:
+Name: Camera
+Weight: 2
+Utility Value: 20
+
+Enter details for item 3:
+Name: Phone
+Weight: 1
+Utility Value: 15
+
+Enter details for item 4:
+Name: HaedPhone
+Weight: 2
+Utility Value: 25
+
+Enter truck capacity (W in kg): 4
+
+Items selected:
+ - Phone (Weight: 1, Value: 15)
+ - Laptop (Weight: 3, Value: 30)
+
+Maximum Utility Value: 45
