@@ -1,0 +1,54 @@
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'MovieSorting' 
+Sort movies by (rating/year/popularity): rating
+
+Sorting 100000 movies by rating...
+
+Top 10 movies by rating:
+Movie 54577 | Rating: 9.9 | Year: 1992 | Popularity: 453993
+Movie 7527 | Rating: 9.9 | Year: 1993 | Popularity: 548958
+Movie 15596 | Rating: 9.9 | Year: 2021 | Popularity: 169379
+Movie 84097 | Rating: 9.9 | Year: 1991 | Popularity: 543124
+Movie 14983 | Rating: 9.9 | Year: 2007 | Popularity: 544200
+Movie 49522 | Rating: 9.9 | Year: 2019 | Popularity: 59800
+Movie 59152 | Rating: 9.9 | Year: 1998 | Popularity: 815309
+Movie 63038 | Rating: 9.9 | Year: 1995 | Popularity: 997732
+Movie 43961 | Rating: 9.9 | Year: 2015 | Popularity: 786040
+Movie 69920 | Rating: 9.9 | Year: 1991 | Popularity: 212182
+
+Sorted 100,000 movies in 0.215 seconds.
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  d:; cd 'd:\TY 5th sem\Design and Analysis of algorithm\codes'; & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'MovieSorting' 
+Sort movies by (rating/year/popularity): year
+
+Sorting 100000 movies by year...
+
+Top 10 movies by year:
+Movie 83286 | Rating: 5.4 | Year: 2024 | Popularity: 9661
+Movie 94320 | Rating: 1.9 | Year: 2024 | Popularity: 84884
+Movie 47251 | Rating: 1.1 | Year: 2024 | Popularity: 276831
+Movie 86498 | Rating: 5.0 | Year: 2024 | Popularity: 738159
+Movie 15682 | Rating: 8.8 | Year: 2024 | Popularity: 492404
+Movie 34073 | Rating: 2.0 | Year: 2024 | Popularity: 80352
+Movie 82905 | Rating: 9.3 | Year: 2024 | Popularity: 190068
+Movie 29290 | Rating: 2.2 | Year: 2024 | Popularity: 841690
+Movie 40380 | Rating: 3.5 | Year: 2024 | Popularity: 675312
+Movie 55890 | Rating: 2.9 | Year: 2024 | Popularity: 88152
+
+Sorted 100,000 movies in 0.312 seconds.
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  d:; cd 'd:\TY 5th sem\Design and Analysis of algorithm\codes'; & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'MovieSorting'
+Sort movies by (rating/year/popularity): popularity
+
+Sorting 100000 movies by popularity...
+
+Top 10 movies by popularity:
+Movie 53822 | Rating: 6.0 | Year: 1990 | Popularity: 1000996
+Movie 82100 | Rating: 2.3 | Year: 1990 | Popularity: 1000989
+Movie 61574 | Rating: 3.3 | Year: 1988 | Popularity: 1000978
+Movie 88227 | Rating: 2.5 | Year: 1985 | Popularity: 1000972
+Movie 64853 | Rating: 3.9 | Year: 2010 | Popularity: 1000954
+Movie 86080 | Rating: 2.8 | Year: 2017 | Popularity: 1000954
+Movie 49007 | Rating: 9.3 | Year: 2016 | Popularity: 1000953
+Movie 33341 | Rating: 6.6 | Year: 2016 | Popularity: 1000947
+Movie 10515 | Rating: 7.9 | Year: 2010 | Popularity: 1000943
+Movie 85763 | Rating: 8.2 | Year: 1989 | Popularity: 1000925
+
+Sorted 100,000 movies in 0.076 seconds.
