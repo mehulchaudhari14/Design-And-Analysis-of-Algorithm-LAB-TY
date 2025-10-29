@@ -1,0 +1,20 @@
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'ShortestRoute'
+SwiftCargo Logistics Route Optimization
+Enter total number of locations (nodes) in the delivery network: 6
+Enter number of possible routes between locations: 7
+Enter route details in the format: <From> <To> <Cost/Time>
+0 1 2
+0 2 4
+1 3 7
+1 4 3
+2 4 2
+3 5 1
+4 5 5
+Enter starting warehouse (source node): 0
+Enter final delivery point (destination node): 5
+
+Analyzing delivery routes...
+Recommended delivery route: 0 -> 1 -> 3 -> 5
+Route analysis completed successfully.
+Total computation time: 0.1727 milliseconds
+SwiftCargo system has determined the most efficient delivery path.
