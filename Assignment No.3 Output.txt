@@ -1,0 +1,58 @@
+PS D:\TY 5th sem\Design and Analysis of algorithm\codes>  & 'C:\Program Files\Java\jdk-22\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\mehul\AppData\Roaming\Code\User\workspaceStorage\7b19ceb7f431993e26c8460adc93e302\redhat.java\jdt_ws\codes_da4a95c3\bin' 'ReliefDistribution'
+Emergency Relief Supply Distribution
+
+Enter the number of supply items: 5
+
+Enter details for item 1:
+Item name: Rice bags
+Weight in kilograms: 50
+Utility value (importance): 40
+Is this item divisible? (1 for Yes, 0 for No): 1
+
+Enter details for item 2:
+Item name: Medical kits
+Weight in kilograms: 10
+Utility value (importance): 60
+Is this item divisible? (1 for Yes, 0 for No): 0
+
+Enter details for item 3:
+Item name: Water Bottle
+Weight in kilograms: 30
+Utility value (importance): 25
+Is this item divisible? (1 for Yes, 0 for No): 0
+
+Enter details for item 4:
+Item name: Food
+Weight in kilograms: 15
+Utility value (importance): 30
+Is this item divisible? (1 for Yes, 0 for No): 1
+
+Enter details for item 5:
+Item name: Blankets
+Weight in kilograms: 20
+Utility value (importance): 25
+Is this item divisible? (1 for Yes, 0 for No): 0
+
+Enter the boat capacity in kilograms: 60
+
+Loading the boat with the most valuable supplies first...
+
+Loaded full item: Medical kits (10.0 kg)
+Utility value gained: 60.0
+
+Loaded 15.0 kg of Food
+Utility value gained: 30.0
+
+Loaded full item: Blankets (20.0 kg)
+Utility value gained: 25.0
+
+Skipped Water Bottle because it is too heavy for the remaining space.
+
+Loaded 15.0 kg of Rice bags
+Utility value gained: 12.0
+
+Total utility value carried: 127.0
+Remaining boat capacity: 0.0 kg
+Execution time: 41.6549 milliseconds
+
+Relief supplies are ready to be delivered.
