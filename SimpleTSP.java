@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class SimpleTSP {
     static final double INF = 1e12;
@@ -104,3 +104,4 @@ public class SimpleTSP {
         }
     }
 }
+
